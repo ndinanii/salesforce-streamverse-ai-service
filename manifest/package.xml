@@ -25,6 +25,20 @@
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
+        <members>Knowledge__kav.Problem_Description__c</members>
+        <members>Knowledge__kav.Solution_Steps__c</members>
+        <members>Knowledge__kav.Validation_Criteria__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Knowledge__kav-Troubleshooting_Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Knowledge__kav.Troubleshooting</members>
+        <name>RecordType</name>
+    </types>
+    <types>
         <members>*</members>
         <name>LightningComponentBundle</name>
     </types>
