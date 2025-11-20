@@ -3,8 +3,4 @@
     <fullName>Troubleshooting</fullName>
     <active>true</active>
     <label>Troubleshooting</label>
-    <layouts>
-        <layout>Knowledge__kav-Troubleshooting_Layout</layout>
-        <recordType>Troubleshooting</recordType>
-    </layouts>
 </RecordType>

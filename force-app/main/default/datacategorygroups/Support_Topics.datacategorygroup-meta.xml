@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataCategoryGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <dataCategory>
+        <dataCategory>
+            <label>Billing</label>
+            <name>Billing</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Technical</label>
+            <name>Technical</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Retention Policy</label>
+            <name>Retention_Policy</name>
+        </dataCategory>
+        <dataCategory>
+            <label>General FAQ</label>
+            <name>General_FAQ</name>
+        </dataCategory>
+        <label>All</label>
+        <name>All</name>
+    </dataCategory>
+    <description>Used to categorize Knowledge Articles and control visibility on the Experience Site.</description>
+    <label>Support Topics</label>
+    <objectUsage>
+        <object>KnowledgeArticleVersion</object>
+    </objectUsage>
+</DataCategoryGroup>

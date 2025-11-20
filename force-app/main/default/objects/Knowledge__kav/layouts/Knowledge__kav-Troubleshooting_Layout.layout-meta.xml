@@ -4,18 +4,30 @@
         <customLabel>false</customLabel>
         <detailHeading>false</detailHeading>
         <editHeading>true</editHeading>
+        <label>Information</label>
+        <layoutColumns>
+            <layoutItems>
+                <field>Title</field>
+            </layoutItems>
+            <layoutItems>
+                <field>UrlName</field>
+            </layoutItems>
+        </layoutColumns>
+        <style>OneColumn</style>
+    </layoutSections>
+    <layoutSections>
+        <customLabel>false</customLabel>
+        <detailHeading>false</detailHeading>
+        <editHeading>true</editHeading>
         <label>Content</label>
         <layoutColumns>
             <layoutItems>
-                <behavior>Edit</behavior>
                 <field>Problem_Description__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
                 <field>Solution_Steps__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
                 <field>Validation_Criteria__c</field>
             </layoutItems>
         </layoutColumns>
@@ -26,5 +38,4 @@
     <showInteractionLogPanel>false</showInteractionLogPanel>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
-    <summaryLayout>Full</summaryLayout>
 </Layout>

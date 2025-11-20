@@ -31,6 +31,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Support_Topics</members>
+        <name>DataCategoryGroup</name>
+    </types>
+    <types>
         <members>Knowledge__kav-Troubleshooting_Layout</members>
         <name>Layout</name>
     </types>
