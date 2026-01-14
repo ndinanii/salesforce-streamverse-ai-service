@@ -37,9 +37,9 @@ As a Junior Salesforce Strategist, I designed a **scalable support ecosystem** t
 
 ---
 
-## 4. Engineering Philosophy: The Colt Protocol
+## 4. Engineering Philosophy: 
 
-This project follows **The Colt Protocol** methodology, a systematic 6-stage approach to Salesforce development:
+This project follows a systematic 6-stage approach to Salesforce development:
 
 ### The 6-Stage Pipeline
 
